@@ -10,6 +10,6 @@ setup(
     packages=['ttrest'],
     package_dir={'ttrest': 'ttrest'},
     install_requires=[
-        'requests', 'logging', 'uuid', 'datetime'
+        'requests'
     ],
 )
